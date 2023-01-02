@@ -11,4 +11,6 @@
 |2. [Find pivot index](https://leetcode.com/problems/find-pivot-index/)|✅|[Python](./Images/find-pivot-index.png) |
 |3. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|✅| [Python](./Images/isomorphic-string.png)|
 |4. [Is Subsequence](https://leetcode.com/problems/is-subsequence/)|✅|[Python](./Images/Is-Subsequence.png)|
+|5. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) |✅|[Python](./Images/merge-sorted-list.png)|
+|6. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) |✅|[Python](./Images/reverse-linked-list.png)|
 <!-- |1. []() |✅|[Python]()| -->
