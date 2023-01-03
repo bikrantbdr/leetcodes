@@ -13,4 +13,8 @@
 |4. [Is Subsequence](https://leetcode.com/problems/is-subsequence/)|✅|[Python](./Images/Is-Subsequence.png)|
 |5. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) |✅|[Python](./Images/merge-sorted-list.png)|
 |6. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) |✅|[Python](./Images/reverse-linked-list.png)|
+|7. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |✅|[Python](./Images/middle-of-linkedlist.png)|
+|8. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |✅|[Python](./Images/linked-list-cycle-2.png)|
+<!-- |1. []() |✅|[Python]()| -->
+<!-- |1. []() |✅|[Python]()| -->
 <!-- |1. []() |✅|[Python]()| -->
