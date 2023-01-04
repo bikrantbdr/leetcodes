@@ -15,7 +15,7 @@
 |6. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) |✅|[Python](./Images/reverse-linked-list.png)|
 |7. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |✅|[Python](./Images/middle-of-linkedlist.png)|
 |8. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |✅|[Python](./Images/linked-list-cycle-2.png)|
-|9. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |✅|[Python](./Images//best-time-to-buy-sell-stock.png)|
+|9. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |✅|[Python](./Images/best-time-to-buy-sell-stock.png)|
 |10. [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) |✅|[Python](./Images/longest%20palindrome.png)|
 <!-- |1. []() |✅|[Python]()| -->
 <!-- |1. []() |✅|[Python]()| -->
