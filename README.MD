@@ -17,6 +17,6 @@
 |8. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |✅|[Python](./Images/linked-list-cycle-2.png)|
 |9. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |✅|[Python](./Images/best-time-to-buy-sell-stock.png)|
 |10. [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) |✅|[Python](./Images/longest%20palindrome.png)|
-<!-- |1. []() |✅|[Python]()| -->
+|11. [https://leetcode.com/problems/n-ary-tree-preorder-traversal/](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |✅|[Python](./Images/nary-preorder-traversal.png)|
 <!-- |1. []() |✅|[Python]()| -->
 <!-- |1. []() |✅|[Python]()| -->
