@@ -19,5 +19,6 @@
 |10. [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) |✅|[Python](./Images/longest%20palindrome.png)|
 |11. [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |✅|[Python](./Images/nary-preorder-traversal.png)|
 |12. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) |✅|[Python](./Images/binary-tree-level-order-traversal.png)|
+|13. [Binary Search](https://leetcode.com/problems/binary-search) |✅|[Python](./Images/binary-search.png)|
 <!-- |1. []() |✅|[Python]()| -->
 <!-- |1. []() |✅|[Python]()| -->
